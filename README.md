@@ -1,6 +1,10 @@
 # ReaperAC-FIveM-AntiCheat
 This is the free version of Reaper AntiCheat. Manage your server from anywhere in the world with our dashboard managment portal - View our website at https://reaperac.com
 
+- https://reaperac.com
+- https://discord.gg/reaperac
+- https://my.reaperac.com
+
 ## Features - For a full list of features visit https://my.reaperac.com :)
 - Auto Bypass - No need to setup permissions with Reaper! It automatically does it for you
 - Require Steam
